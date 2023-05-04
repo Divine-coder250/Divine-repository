@@ -94,12 +94,7 @@ else{
 }
 
 
-// header("Location:index.php?msg=Logged in successfully");
-// } else {
-// echo "Error:" .$sql."<br>" .$conn -> error;
-// }
 
-// $conn->close();
 
 }
 
